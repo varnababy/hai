@@ -1,2 +1,4 @@
 # hai
-to say hai
+hello
+
+l like playing
